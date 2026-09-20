@@ -10,3 +10,6 @@ I will use this repository to learn:
 - Branches
 - Pull Requests
 - Git
+## My Goal
+
+I am learning GitHub step by step by building real software projects.
