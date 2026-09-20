@@ -13,3 +13,6 @@ I will use this repository to learn:
 ## My Goal
 
 I am learning GitHub step by step by building real software projects.
+## Branch Practice
+
+This change belongs only to my practice branch.
